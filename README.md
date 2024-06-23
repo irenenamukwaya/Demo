@@ -36,9 +36,9 @@ Briefly describe your repository and its purpose.
 
 *Contact*
 
-- Your name
-- Your email address
-- Your website or social media handles
+Namukwaya Irene
+irenenamukwaya719@gmail.com 
+facebook, watsap, email.
 
 *Acknowledgments*
 
